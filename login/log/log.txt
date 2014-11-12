@@ -1,0 +1,114 @@
+05.09.14 - 18:54 // account: corporation-magenta, username: stuart, password: alona, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014}
+10.09.14 - 15:48 // account: alliance uk, username: dlewis, password: Superman1, industry: Distribution, partner id:  // {"success": true} 
+15.09.14 - 09:41 // account: corparation-magenta, username: stuart, password: alona, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+15.09.14 - 09:41 // account: corporation-magenta, username: stuart, password: alona, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+15.09.14 - 09:41 // account: corporation-magenta, username: Login Tester, password: mam, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+15.09.14 - 09:41 // account: corporation-magenta, username: Login Tester, password: alona, industry: Distribution, partner id:  // {"success": true} 
+17.09.14 - 16:32 // account: peter@asm-autos.co.uk, username: peter1066, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+17.09.14 - 16:32 // account: asm-autos, username: peter1066, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+17.09.14 - 16:33 // account: recycling-auto, username: peter1066, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+17.09.14 - 16:33 // account: recycling-auto, username: admin, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+17.09.14 - 16:35 // account: recycling-auto, username: peter1066, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+17.09.14 - 16:35 // account: recycling-auto, username: peter, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+17.09.14 - 16:35 // account: recycling-auto, username: peter, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+17.09.14 - 16:36 // account: recycling-auto, username: peter, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+17.09.14 - 16:41 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+17.09.14 - 16:42 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+17.09.14 - 16:43 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+17.09.14 - 16:44 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+17.09.14 - 16:47 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+17.09.14 - 16:48 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+17.09.14 - 19:36 // account: recycling-asm, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+17.09.14 - 19:36 // account: recycling-asm, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+17.09.14 - 19:37 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+17.09.14 - 19:52 // account: corporation-magenta, username: Login-Tester, password: alona, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+17.09.14 - 19:52 // account: corporation-magenta, username: Login-Tester, password: mam, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+17.09.14 - 19:52 // account: corporation-magenta, username: Login-Tester, password: Alona72, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+17.09.14 - 19:52 // account: corporation-magenta, username: Login-Tester, password: stuart, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+17.09.14 - 21:06 // account: corporation-magenta, username: Login Tester, password: alona, industry: Distribution, partner id:  // {"success": true} 
+17.09.14 - 21:07 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 06:55 // account: recycling-auto, username: Magenta, password: peter1066, industry: Home Delivery, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 07:26 // account: recycling-auto, username: Magenta, password: ToDsTp&z4ApUsSj, industry: Home Delivery, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 07:26 // account: recycling-auto, username: Magenta, password: ToDsTp&z4ApUsSj, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 07:27 // account: recycling-auto, username: Magenta, password: ToDsTp&z4ApUsSj, industry: Home Delivery, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 07:31 // account: recycling-auto, username: Magenta, password: peter1066, industry: Home Delivery, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 07:31 // account: recycling-auto, username: Magenta, password: peter1066, industry: Transportation, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 07:31 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 07:31 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 07:33 // account: recycling-auto, username: Magenta, password: peter1066, industry: Home Delivery, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 07:33 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 07:34 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 07:37 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 07:48 // account: recycling-auto, username: Magenta, password: ToDsTp&z4ApUsSj, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+18.09.14 - 10:38 // account: recycling-auto, username: Magenta, password: rDRHUYak7KQwL8$, industry: Distribution, partner id:  // {"success": true} 
+18.09.14 - 10:40 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+18.09.14 - 10:40 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+18.09.14 - 10:41 // account: recycling-auto, username: Magenta, password: peter1066, industry: Home Delivery, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+18.09.14 - 10:42 // account: recycling-auto, username: Magenta, password: rDRHUYak7KQwL8$, industry: Home Delivery, partner id:  // {"success": true} 
+18.09.14 - 11:18 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": true} 
+18.09.14 - 22:21 // account: папа, username: 45екупек, password: 5екпк45пе, industry: E-commerce, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+21.09.14 - 12:17 // account: recycling-auto, username: Magenta, password: peter1066, industry: Vovan test, partner id:  // {"success": true} 
+21.09.14 - 12:23 // account: recycling-auto, username: Magenta, password: peter1066, industry: test 2, partner id:  // {"success": true} 
+21.09.14 - 18:58 // account: recycling-auto, username: Magenta, password: peter1066, industry: Distribution, partner id:  // {"success": true} 
+22.09.14 - 11:41 // account: ttwtest, username: toralf1, password: test99$, industry: other, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+22.09.14 - 11:42 // account: ttwtest, username: toralf1, password: test99$, industry: other, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+22.09.14 - 11:44 // account: ttwtest, username: toralf1, password: test99$, industry: other, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+22.09.14 - 11:45 // account: ttwtest, username: toralf1, password: test99$, industry: Transportation, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+26.09.14 - 09:39 // account: ttwtest, username: theinichen, password: tomtom, industry: Telematics, partner id:  // {"success": true} 
+26.09.14 - 11:03 // account: ttwtest, username: theinichen, password: tomtom, industry: Telematics, partner id:  // {"success": true} 
+26.09.14 - 11:04 // account: ttwtest, username: theinichen, password: tomtom, industry: Telematics, partner id:  // {"success": true} 
+26.09.14 - 11:12 // account: service-line, username: magenta, password: maxoptra, industry: Home Delivery, partner id:  // {"success": true} 
+26.09.14 - 11:12 // account: service-line, username: magenta, password: maxoptra, industry: Home Delivery, partner id:  // {"success": true} 
+26.09.14 - 11:12 // account: service-line, username: magenta, password: maxoptra, industry: Home Delivery, partner id:  // {"success": true} 
+26.09.14 - 11:16 // account: ttwtest, username: theinichen, password: tomtom, industry: Telematics, partner id:  // {"success": true} 
+26.09.14 - 11:17 // account: ewrasd, username: fasdf, password: asdfasdf, industry: dasf, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+26.09.14 - 11:18 // account: corporation-magenta, username: vladimir, password: mammam, industry: test account, partner id:  // {"success": true} 
+26.09.14 - 11:21 // account: corporation-magenta, username: vladimir, password: mammam, industry: test account, partner id:  // {"success": true} 
+26.09.14 - 11:21 // account: corporation-magenta, username: vladimir, password: mammam, industry: test account, partner id:  // {"success": true} 
+26.09.14 - 11:24 // account: ttwtest, username: theinichen, password: tomtom, industry: E-commerce, partner id:  // {"success": true} 
+26.09.14 - 11:24 // account: corporation-magenta, username: vladimir, password: mammam, industry: test account, partner id:  // {"success": true} 
+26.09.14 - 11:24 // account: corporation-magenta, username: vladimir, password: mammam, industry: test, partner id:  // {"success": true} 
+26.09.14 - 11:25 // account: ttwtest, username: theinichen, password: tomtom, industry: E-commerce, partner id:  // {"success": true} 
+26.09.14 - 11:25 // account: service-line, username: magenta, password: maxoptra, industry: Home Delivery, partner id:  // {"success": true} 
+26.09.14 - 11:25 // account: ttwtest, username: theinichen, password: tomtom, industry: E-commerce, partner id:  // {"success": true} 
+26.09.14 - 11:25 // account: corporation-magenta, username: vladimir, password: mammam, industry: Test, partner id:  // {"success": true} 
+26.09.14 - 11:27 // account: service-line, username: magenta, password: maxoptra, industry: Home Delivery, partner id:  // {"success": true} 
+26.09.14 - 11:27 // account: service-line, username: magenta, password: maxoptra, industry: Service engineers, partner id:  // {"success": true} 
+26.09.14 - 11:27 // account: service-line, username: maxoptra, password: magenta, industry: Service engineers, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+26.09.14 - 11:27 // account: service-line, username: maxoptra, password: magenta, industry: Home Delivery, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+26.09.14 - 11:27 // account: service-line, username: magenta, password: maxoptra, industry: Home Delivery, partner id:  // {"success": true} 
+26.09.14 - 11:28 // account: flowervision, username: maxoptra, password: UfLXF9R51SkG, industry: Home Delivery, partner id:  // {"success": true} 
+26.09.14 - 11:59 // account: ttwtest, username: theinichen, password: tomtom, industry: test, partner id:  // {"success": true} 
+26.09.14 - 13:03 // account: ttwtest, username: theinichen, password: tomtom, industry: Distribution, partner id:  // {"success": true} 
+29.09.14 - 07:00 // account: ttwtest, username: theinichen, password: tomtom, industry: Transportation, partner id:  // {"success": true} 
+30.09.14 - 09:08 // account: ttwtest, username: theinichen, password: tomtom, industry: E-commerce, partner id:  // {"success": true} 
+30.09.14 - 11:34 // account: пвап, username: demo169, password: SQfcsJ, industry: E-commerce, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+01.10.14 - 15:51 // account: ttwtest, username: toralf1, password: service, industry: Telematik, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+01.10.14 - 15:52 // account: ttwtest, username: theinichen, password: tomtom, industry: Telematik, partner id:  // {"success": true} 
+02.10.14 - 08:24 // account: ttwtest, username: theinichen, password: tomtom, industry: E-commerce, partner id:  // {"success": true} 
+03.10.14 - 12:54 // account: admin, username: admin, password: Ntcn.pth, industry: Home Delivery, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+03.10.14 - 15:00 // account: andrew, username: Stuart Brunger, password: m463nt4, industry: Home Delivery, partner id:  // {"success": true} 
+05.10.14 - 16:53 // account: acl, username: admin, password: password123, industry: Service engineers, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+05.10.14 - 16:55 // account: acl, username: admin, password: password123, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+05.10.14 - 16:56 // account: acl, username: admin, password: password123, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+05.10.14 - 17:09 // account: acl, username: Symltech, password: G11mp53tm, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+05.10.14 - 17:09 // account: acl, username: Symltech, password: g11mp53tm, industry: Distribution, partner id:  // {"success": true} 
+06.10.14 - 13:52 // account: andrew, username: Stuart Brunger, password: m463nt4, industry: Distribution, partner id:  // {"success": true} 
+06.10.14 - 13:57 // account: andrew, username: Stuart Brunger, password: m463nt4, industry: Home Delivery, partner id:  // {"success": true} 
+06.10.14 - 14:03 // account: andrew, username: Stuart Brunger, password: m463nt4, industry: Distribution, partner id:  // {"success": true} 
+06.10.14 - 16:48 // account: acl, username: Symltech, password: g11mp53tm, industry: Distribution, partner id:  // {"success": true} 
+08.10.14 - 09:46 // account: acl, username: Symltech, password: G11mp53tm!, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+08.10.14 - 09:47 // account: acl, username: Symltech, password: g11mp53tm, industry: Distribution, partner id:  // {"success": true} 
+16.10.14 - 14:27 // account: independent-tracking, username: admin, password: oliver111107, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+16.10.14 - 14:27 // account: independent-tracking, username: admin, password: oliver111107, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+16.10.14 - 14:27 // account: independent-tracking, username: admin, password: oliver111107, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+16.10.14 - 14:28 // account: independent-tracking, username: admin, password: oliver111107, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+16.10.14 - 14:28 // account: independent-tracking, username: admin, password: oliver111107, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+16.10.14 - 14:28 // account: independent-tracking, username: admin, password: oliver111107, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+16.10.14 - 14:28 // account: independent-tracking, username: admin, password: oliver111107, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+16.10.14 - 14:28 // account: independent-tracking, username: admin, password: oliver111107, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+16.10.14 - 14:28 // account: independent-tracking, username: admin, password: oliver111107, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+16.10.14 - 14:28 // account: corporation-magenta, username: stuart, password: alona, industry: Distribution, partner id:  // {"success": false, "reason": "external request not allowed", "errorCode": 8014} 
+16.10.14 - 14:29 // account: independent-tracking, username: admin, password: oliver111107, industry: Distribution, partner id:  // {"success": false, "reason": "User does not exist", "errorCode": 1101} 
+16.10.14 - 14:31 // account: independent-tracking, username: admin, password: Oliver111107, industry: Distribution, partner id:  // {"success": true} 
+16.10.14 - 15:04 // account: independent-tracking, username: admin, password: Oliver111107, industry: E-commerce, partner id:  // {"success": true} 
